@@ -1,5 +1,5 @@
 # Shop-Project
-CRUD Application created with MySQL, Express.js, React.js, Node.js stack 
+CRUD Application created with PostgreSQL, Express.js, React.js, Node.js stack 
 
 My first attempt with programming web application.
 Decided to pick React.js - since it's becomming very popular library.
