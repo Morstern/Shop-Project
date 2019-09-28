@@ -1,8 +1,8 @@
 const Sequelize = require("sequelize");
 
-module.exports = new Sequelize("shop", "root", "admin", {
+module.exports = new Sequelize("shop", "postgres", "admin", {
   host: "localhost",
-  dialect: "mysql",
+  dialect: "postgres",
   logging: false,
 
   pool: {

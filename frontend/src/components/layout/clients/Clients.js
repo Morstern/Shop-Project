@@ -29,7 +29,7 @@ export const Clients = () => {
       <DataTable
         columns={ClientsColumns}
         data={data.length > 0 ? data : []}
-        size={12}
+        size={8}
       />
     </div>
   );

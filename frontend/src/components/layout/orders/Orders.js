@@ -31,7 +31,7 @@ export const Orders = () => {
       <DataTable
         columns={OrderColumns}
         data={data.length > 0 ? data : []}
-        size={12}
+        size={8}
       />
     </div>
   );
