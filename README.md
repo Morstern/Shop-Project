@@ -1,4 +1,4 @@
-# Shop-Project
+## Shop-Project
 CRUD Application created with PostgreSQL, Express.js, React.js, Node.js stack 
 
 My first attempt with programming web application.
@@ -18,5 +18,3 @@ For database it uses MySQL, it requires already created database "shop" and two 
 - "clients"
 - "orders"
 
-I decided to use Database First approach - because I wasn't familiar with creating database by using Sequelize (ORM).
-Furthermore, I believe that it's better to create it by your hand - you've more control over certain things (such as foreign keys, specific length of fields)
